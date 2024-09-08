@@ -2,7 +2,7 @@
 ### (Mi proyecto)
 
 ## Vista previa
-![imagen_1](vista_previa_1.png)
+![imagen_1](vista_previa.png)
 
 ## Ejecución en dispositivo físico
 ![imagen_2](vista_ejecucion.png)
