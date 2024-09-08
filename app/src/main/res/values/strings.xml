@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Florecer</string>
+
+    <string name="boton_expandido">Botón para expander consejo</string>
+
+    <string name="dia1_texto">Escucha activa</string>
+    <string name="dia2_texto">Comunica con honestidad</string>
+    <string name="dia3_texto">Practica la empatía</string>
+    <string name="dia4_texto">Expresa gratitud</string>
+    <string name="dia5_texto">Ríe juntos</string>
+    <string name="dia6_texto">Crea metas comunes</string>
+    <string name="dia7_texto">Acepta las diferencias</string>
+    <string name="dia8_texto">Dedica tiempo de calidad</string>
+    <string name="dia9_texto">Sorprende con pequeños gestos</string>
+    <string name="dia10_texto">Resuelve conflictos con respeto</string>
+    <string name="dia11_texto">Sé paciente</string>
+    <string name="dia12_texto">Fomenta la individualidad</string>
+    <string name="dia13_texto">Establece rituales de pareja</string>
+    <string name="dia14_texto">Mantén la intimidad emocional</string>
+    <string name="dia15_texto">Celebra los logros juntos</string>
+    <string name="dia16_texto">Apoya en los momentos difíciles</string>
+    <string name="dia17_texto">Sé flexible y cede</string>
+    <string name="dia18_texto">Mantén el contacto físico</string>
+    <string name="dia19_texto">Da espacio para crecer</string>
+    <string name="dia20_texto">Evita las suposiciones</string>
+    <string name="dia21_texto">Fortalece la confianza</string>
+    <string name="dia22_texto">Sé responsable de tus emociones</string>
+    <string name="dia23_texto">Planifica citas regulares</string>
+    <string name="dia24_texto">Sé comprensivo con los errores</string>
+    <string name="dia25_texto">Cultiva la confianza en ti mismo</string>
+    <string name="dia26_texto">Comparte responsabilidades</string>
+    <string name="dia27_texto">Afronta con humor las adversidades</string>
+    <string name="dia28_texto">Aprende de las experiencias pasadas</string>
+    <string name="dia29_texto">Sé transparente sobre tus necesidades</string>
+    <string name="dia30_texto">Nunca dejes de decir "Te quiero"</string>
+
+    <string name="dia1_descripcion">Escuchar a tu pareja sin interrupciones muestra respeto y comprensión. Dedica tiempo para escuchar sus preocupaciones, deseos y emociones. Esto fomenta la confianza y ayuda a evitar malentendidos.</string>
+    <string name="dia2_descripcion">La comunicación abierta es clave. Comparte lo que sientes, tanto lo positivo como lo negativo, de manera clara pero respetuosa. La honestidad crea una base sólida y evita resentimientos ocultos.</string>
+    <string name="dia3_descripcion">Trata de ponerte en los zapatos de tu pareja. Comprender cómo se siente y por qué actúa de cierta manera fortalecerá el lazo emocional, y ayudará a manejar situaciones difíciles.</string>
+    <string name="dia4_descripcion">Di "gracias" por las pequeñas cosas que tu pareja hace, incluso si parecen insignificantes. Apreciar sus esfuerzos demuestra que valoras su presencia en tu vida.</string>
+    <string name="dia5_descripcion">El humor es una excelente manera de fortalecer la relación. Dedica tiempo a disfrutar momentos ligeros y divertidos juntos, ya que la risa une y alivia el estrés diario.</string>
+    <string name="dia6_descripcion">Tener objetivos compartidos, como viajar, ahorrar para algo o aprender algo nuevo juntos, fortalece el sentido de equipo. Trabajar por algo en conjunto genera una conexión más profunda.</string>
+    <string name="dia7_descripcion">No siempre estarán de acuerdo, y está bien. Aprende a aceptar las diferencias sin intentar cambiar a tu pareja. El respeto mutuo por las perspectivas individuales es clave en una relación sana.</string>
+    <string name="dia8_descripcion">Pasar tiempo juntos, sin distracciones como teléfonos o pantallas, es fundamental. Aunque sean solo unos minutos al día, este tiempo dedicado exclusivamente a la relación crea cercanía.</string>
+    <string name="dia9_descripcion">Pequeñas sorpresas, como una nota, una comida especial o un gesto cariñoso, pueden alegrar el día de tu pareja. Los detalles muestran que piensas en su felicidad.</string>
+    <string name="dia10_descripcion">Los desacuerdos son normales, pero es importante manejarlos sin gritar ni herir. Aborda los problemas con calma, discutiendo soluciones en lugar de buscar culpables.</string>
+    <string name="dia11_descripcion">Cada persona tiene su ritmo para procesar emociones y situaciones. La paciencia en momentos difíciles fortalece la relación, mostrando que estás dispuesto a esperar y apoyar.</string>
+    <string name="dia12_descripcion">Permite que tu pareja tenga tiempo para sus hobbies y amigos. Respetar su espacio personal enriquece la relación, evitando el desgaste por demasiada dependencia.</string>
+    <string name="dia13_descripcion">Crear pequeños rituales, como una cena semanal o una caminata juntos, mantiene la conexión viva y crea momentos especiales que se esperan con ilusión.</string>
+    <string name="dia14_descripcion">Comparte tus sueños, miedos y esperanzas. La intimidad no es solo física; abrirte emocionalmente crea un vínculo mucho más profundo y duradero.</string>
+    <string name="dia15_descripcion">Los éxitos de tu pareja son también motivo de celebración para ti. Reconocer y celebrar sus logros fortalece la unión y demuestra que estás en su equipo.</string>
+    <string name="dia16_descripcion">Todos enfrentamos desafíos. Ser un apoyo sólido para tu pareja en tiempos complicados refuerza la confianza y demuestra que siempre pueden contar el uno con el otro.</string>
+    <string name="dia17_descripcion">No siempre es necesario tener la razón. Ceder en ciertos momentos, cuando no es algo fundamental, muestra madurez y el deseo de mantener la armonía.</string>
+    <string name="dia18_descripcion">No subestimes el poder de un abrazo, un beso o simplemente tomar la mano de tu pareja. El contacto físico crea seguridad, afecto y bienestar.</string>
+    <string name="dia19_descripcion">Apoya el crecimiento personal de tu pareja. Ya sea en su carrera, sus estudios o sus pasatiempos, muestra interés y celebra su evolución como individuo.</string>
+    <string name="dia20_descripcion">No des por sentado lo que tu pareja piensa o siente. Si tienes dudas, pregúntale directamente para evitar malentendidos que puedan causar conflictos innecesarios.</string>
+    <string name="dia21_descripcion">La confianza es el pilar de cualquier relación. Evita acciones que puedan romperla y si alguna vez se daña, trabaja juntos para reconstruirla.</string>
+    <string name="dia22_descripcion">En lugar de culpar a tu pareja por cómo te sientes, reconoce tus propias emociones y comparte cómo te afectan. Esto facilita el diálogo y evita conflictos innecesarios.</string>
+    <string name="dia23_descripcion">Aunque lleven años juntos, nunca dejes de tener citas. Dedicar tiempo a disfrutar de una salida o actividad juntos mantiene viva la chispa de la relación.</string>
+    <string name="dia24_descripcion">Todos cometemos errores. En lugar de enfocarte en lo que salió mal, trabaja en cómo mejorar juntos, perdonando y avanzando.</string>
+    <string name="dia25_descripcion">Una relación sana se construye sobre la base de dos personas que se valoran a sí mismas. Al trabajar en tu autoestima, contribuyes a una relación más equilibrada y fuerte.</string>
+    <string name="dia26_descripcion">Ya sea en las tareas del hogar o en las decisiones importantes, compartir las responsabilidades crea un equilibrio y evita tensiones.</string>
+    <string name="dia27_descripcion">Incluso en momentos difíciles, encontrar algo de humor puede aliviar la tensión. Reír juntos en tiempos complicados ayuda a sobrellevar las situaciones de manera más ligera.</string>
+    <string name="dia28_descripcion">En lugar de quedarte atascado en lo que no funcionó, reflexiona sobre las experiencias pasadas para mejorar. Juntos pueden aprender a ser mejores para la relación.</string>
+    <string name="dia29_descripcion">No esperes que tu pareja adivine lo que necesitas. Ser claro sobre tus expectativas y necesidades reduce la frustración y mejora la comunicación.</string>
+    <string name="dia30_descripcion">No des por sentado que tu pareja sabe que la amas. Expresar tu amor en palabras, además de en acciones, es un recordatorio constante de lo que significa en tu vida.</string>
+</resources>
